@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-05-28T09:40:11.000Z</updated>
+  <updated>2017-05-28T09:51:40.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,31 +16,22 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>python多进程本地打印log解决方案</title>
-    <link href="http://yoursite.com/2017/01/09/python-local-log/"/>
-    <id>http://yoursite.com/2017/01/09/python-local-log/</id>
-    <published>2017-01-08T23:19:00.000Z</published>
-    <updated>2017-05-28T09:40:11.000Z</updated>
+    <title>烟花易冷(重填)</title>
+    <link href="http://yoursite.com/2010/01/09/python-local-log/"/>
+    <id>http://yoursite.com/2010/01/09/python-local-log/</id>
+    <published>2010-01-08T23:19:00.000Z</published>
+    <updated>2017-05-28T09:51:40.000Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h3&gt;&lt;p&gt;本文将从下面几个方面进行思考：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;为什么要在本地打印log&lt;/li&gt;
-&lt;li&gt;多进程本地打印log存在的问题&lt;/li&gt;
-&lt;li&gt;解决方案&lt;/li&gt;
-&lt;li&gt;解决方案的性能对比&lt;/li&gt;
-&lt;li&gt;后续的性能提升思路&lt;/li&gt;
-&lt;/ol&gt;
+      &lt;p&gt;烟花易冷&lt;/p&gt;
+&lt;p&gt;夜太深 微开窗门 等谁的情魂&lt;br&gt;月光冷 酒杯迷困 走失了故人&lt;br&gt;孤念一生 春梦无痕&lt;br&gt;遗落一滴 又一滴的 哭声&lt;/p&gt;
+&lt;p&gt;爱人泪 香飘几阵 盛满了几升&lt;br&gt;离家门 策马飞奔 不顾你的城&lt;br&gt;待我归来 你已不等&lt;br&gt;一座孤坟 我奈
     
     </summary>
     
-      <category term="python" scheme="http://yoursite.com/categories/python/"/>
+      <category term="悲伤情歌" scheme="http://yoursite.com/categories/%E6%82%B2%E4%BC%A4%E6%83%85%E6%AD%8C/"/>
     
-    
-      <category term="python" scheme="http://yoursite.com/tags/python/"/>
-    
-      <category term="log" scheme="http://yoursite.com/tags/log/"/>
     
   </entry>
   
